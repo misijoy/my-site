@@ -1,7 +1,7 @@
 {
-  "name": "@3kmfi6hp/nodejs-proxy",
+  "name": "nodejs-site",
   "version": "1.0.30",
-  "description": "A Node.js vless proxy",
+  "description": "A Node.js site",
   "keywords": [
     "vless",
     "proxy",
@@ -38,7 +38,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/3Kmfi6HP/nodejs-proxy"
+    "url": "https://github.com/6881558/nodejs-site"
   },
   "dependencies": {
     "tslib": "^2.6.0",
