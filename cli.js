@@ -11,7 +11,7 @@ const argv = require('yargs')
     .option('port', {
         alias: 'p',
         describe: 'Specify the port number',
-        default: 7860
+        default: 443
     })
     .option('uuid', {
         alias: 'u',
